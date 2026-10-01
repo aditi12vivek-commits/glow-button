@@ -17,7 +17,7 @@
 | [Momentary Pushbutton Switch - 5.25mm Square](https://www.sparkfun.com/mini-pushbutton-switch.html) | Detects when the button is pressed | 1 | $0.60 | $0.60 | [SparkFun](https://www.sparkfun.com/mini-pushbutton-switch.html) |
 | [5mm Red LED + 220 Ohm Resistor](https://www.sparkfun.com/rgb-led-red-green-blue-resistors.html?utm_source=chatgpt.com) | The LED lights up when the button is pressed and the resistor limits the LED current | 1 | $1.75 | $1.75 | [SparkFun](https://www.sparkfun.com/rgb-led-red-green-blue-resistors.html?utm_source=chatgpt.com) |
 | **Parts subtotal** | — | — | — | **$25.20** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$25.20** | — |
+| **Tax & shipping** | — | — | — | **$4.80** | — |
+| **Total** | — | — | — | **$30.00** | — |
 
-$4.80 left of the tier's funding.
+**$0.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
